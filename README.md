@@ -1,8 +1,3 @@
-# SecureScope-for-autonomous-surveilliance-system
-Thank you for pointing that out! I will update the README with the correct path for the "After Execution" screenshot. Here's the corrected version of the file:
-
----
-
 # 🚨 *SecureScope Autonomous Surveillance System* 🛡👁
 
 ## 🌟 *Project Overview* 🚀
